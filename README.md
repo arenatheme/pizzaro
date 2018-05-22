@@ -1,3 +1,6 @@
-# My Awesome Book
+# Pizzaro - Fast Food & Restaurant WooCommerce Theme
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+*  **Pizzaro – Fast Food & Restaurant Shopify Theme **is a modern, functional and clean layouts design with premium attention to the details for Fast food, sushi and Pizza delivering restaurants.
+
+
+
