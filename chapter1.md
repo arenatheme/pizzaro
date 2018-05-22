@@ -42,7 +42,7 @@
   * Go to your Shopify admin dashboard and navigate to **Online Store&gt;Themes.**
 
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.  
-    **Only select one package at upload folder from the folder you was extracted.        
+    **Only select one package at upload folder from the folder you was extracted.          
     **![](/assets/upload-folder.png)  
     ![](/assets/upload-theme.png)
 
@@ -115,7 +115,9 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
    > > * key: buy\_with\_2
    > > * value: Add your product handle \#2
 5. Use Custom Field to import data to the product  
-   ![](/assets/custom field.png)
+   ![](/assets/custom field.png)  
+  
+   Another way to manage your product metafield is using meta field apps. You may try install: [https://apps.shopify.com/metafields-editor](https://apps.shopify.com/metafields-editor)
 
 6. ##### Update theme settings as demo
 
