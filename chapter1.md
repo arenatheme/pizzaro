@@ -34,17 +34,19 @@
 
 * ##### **Upload your new theme package**
 
-  * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like mediamarket.v1.0.0.zip.
-  * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there**  
-    ![](/assets/file-unzip.png)  
+  * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-pizzaro-fast-food-restaurant-shopify-them.zip.
+  * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there  
+    **  
+    ![](/assets/file-download.png)  
+  
     If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
 
   * Go to your Shopify admin dashboard and navigate to **Online Store&gt;Themes.**
 
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.  
-    **Only select one package at upload folder from the folder you was extracted.          
-    **![](/assets/upload-folder.png)  
-    ![](/assets/upload-theme.png)
+    Only select one package at t**heme-package folder **from the folder you was extracted**.            
+    **![](/assets/pizzaro-file-unzip.png)  
+    ![](/assets/select upload.png)  
 
   * Your new theme will show up below your current theme.
 
@@ -115,8 +117,8 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
    > > * key: buy\_with\_2
    > > * value: Add your product handle \#2
 5. Use Custom Field to import data to the product  
-   ![](/assets/custom field.png)  
-  
+   ![](/assets/custom field.png)
+
    Another way to manage your product metafield is using meta field apps. You may try install: [https://apps.shopify.com/metafields-editor](https://apps.shopify.com/metafields-editor)
 
 6. ##### Update theme settings as demo
@@ -127,9 +129,9 @@ From your Shopify admin, go to Online Store &gt; Themes. For the theme that you 
 
 On the **Edit code **page, you can edit the existing files, and add new ones. The page shows a directory of theme files and an online code editor:
 
-Go to** Config &gt; settings\_schema.json **and replace code with one pre-setting file we included at **folder pre-setting**
+Go to** Config &gt; settings\_data.json **and replace code with one pre-setting file we included at **folder pre-setting**
 
-![](/assets/presetting.png)
+![](/assets/pizzaro-file-theme.png)
 
-![](/assets/replace-code.png)
+
 
