@@ -123,6 +123,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Product Review
 
 * Label Settings
+
 * Quick View Product: display quick view icon when hover
 * Product Wishlist: display wishlist icon when hover
 * Product Compare: display compare icon when hover
@@ -130,7 +131,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 ##### 3.2.3. Product Tabs
 
 Display products are selected from the multi-collection in the form of multi-tab  
-   ![](/assets/section-product-tab.png)  
+![](/assets/pizzaro-section-product-tab.png)  
 **Setting**
 
 * Layout : Box / Wide
