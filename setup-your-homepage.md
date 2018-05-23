@@ -2,43 +2,45 @@ When you install automatically with the Arena Installation Apps, most of the Sec
 
 ### **Fixed Homepage Block**
 
-Fixed blocks are exactly what you’d guess they are—components that are fixed to certain areas of your site and cannot be moved. In our theme, there are two fixed homepage block:**Header, Bottom & Footer**.
+Fixed blocks are exactly what you’d guess they are—components that are fixed to certain areas of your site and cannot be moved. In our theme, there are two fixed homepage block: **Top Bar, Header,  Service Block, Footer.**
+
+**To Config Topbar, Header & Footer please go to Themes -&gt; Customize Theme -&gt; Theme Settings**![](/assets/theme-setting.png)![](/assets/fixed block.png)
+
+---
+
+#### **Top Bar \(only Header 1 style\)**
+
+#### ![](/assets/topbar - header.png)
+
+To Config Topbar go to **Theme Settings --&gt; Top Bar**
+
+#### ![](/assets/topbar.png)
+
+---
 
 #### **Header**
 
-The header is the rectangular area that runs across the top of your store containing your **logo, navigation, currency converter**,**account login, and cart, search**. It appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned.
+The header is the rectangular area that runs across the top of your store containing your **logo, navigation, best deal block**, **store location block, and cart, search**. It appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned. **We support 4 styles of header.**
 
-##### **Logo: **
+To Config Topbar go to **Theme Settings --&gt; Header**
 
-Your store’s logo provides branding for your site and a clickable link to return to the homepage. You can replace your logo with two type: text or image. which setting at **Theme Setting &gt; Header &gt; Site Logo**
-
-##### **Search:**
-
-A search form is very important to the website to help customers find products. We have built a **smart ajax search **function with the ability to **automatically suggest products **when typing 2 characters in the search form.
-
-You can change**Search icon **or turn of**Smart Ajax Search** at **Theme Setting &gt; Header &gt;Block Search**
-
-##### **Multi-Currency Converter**
-
-This customization lets you provide a drop-down selector that lets customers view your prices in different currencies. Their currency selection will be stored in a cookie and used again on their next visit to your store.
-
-You can set currency converter at**Theme Setting &gt; Top Bar &gt;Multi-Currency**. You can change setting for Money Format; Currency Support and Default Currency & Auto
-
-##### **Cart**
-
-The cart page shows a summary of all of the products that a customer has added to the cart, a subtotal and a total price for the order, and a Checkout button that directs customers to Shopify's secure checkout pages. When no products have been added, the empty cart page shows a Continue shopping link that takes customers back to view your products. You can edit the settings and add new features to your store's cart page to suit the needs of your business.
-
-**Setting Cart **available at **Theme Setting &gt; Cart.**You can change shopping cart icon, add to cart effect on desktop switch between default effect \(Dropdown - show product dropdown from the cart icon\) and Off-Canvas \(Show product added to cart in an off-canvas sidebar\)
-
-You also could change  setting to open order notes on cart page & redirect to Shopify cart page when click add to cart function \(Add to cart redirect option\)
+![](/assets/header.png)
 
 ##### **Mega Navigation**
 
 To install mega navigation please follow the instruction here: [https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-mega-menu-setting-version-1-](https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-mega-menu-setting-version-1-)
 
-#### **Bottom**
+---
 
-Depend on design, there are few block content before the footer. It's will get setting here. Include Partner slide & Block Banner.
+#### Service Bar Block
+
+Depend on design, there is a block content before the footer.![](/assets/service block display.png)
+
+To Config Service Bar please go to To Config Topbar go to **Theme Settings --&gt; Top Bar**
+
+#### 
+
+
 
 #### **Footer**
 
