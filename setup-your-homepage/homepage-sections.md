@@ -1,10 +1,8 @@
 ### 1.SEPERATOR
 
-Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.![](/assets/mediamarket-spacing.png)
+Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.![](/assets/spacing-section.png)
 
 **General Setting for Section**:
-
-* Lazyload: Apply Lazyload Image
 
 * Top Margin: Margin Top of Content
 
@@ -108,6 +106,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Padding
 
 * Borders
+
 * Text Options
 
   **More Settings**[^1]
@@ -119,6 +118,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Color Swatch: Display Color Swatch
 
 * Metafields Description Excerpt: c\_f.description\_excerpt: Display Short Desciption Content in Meta Field
+
 * Product Review
 * Label Settings
 * Quick View Product: display quick view icon when hover
