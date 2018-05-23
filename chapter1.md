@@ -35,18 +35,18 @@
 * ##### **Upload your new theme package**
 
   * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-pizzaro-fast-food-restaurant-shopify-them.zip.
-  * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there  
+  * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there      
     **  
-    ![](/assets/file-download.png)  
-  
+    ![](/assets/file-download.png)
+
     If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
 
   * Go to your Shopify admin dashboard and navigate to **Online Store&gt;Themes.**
 
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.  
-    Only select one package at t**heme-package folder **from the folder you was extracted**.            
+    Only select one package at t**heme-package folder **from the folder you was extracted**.                
     **![](/assets/pizzaro-file-unzip.png)  
-    ![](/assets/select upload.png)  
+    ![](/assets/select upload.png)
 
   * Your new theme will show up below your current theme.
 
@@ -74,6 +74,8 @@ Mediamarket support 6 Shopify Apps below:
 * Instagram Shop by Snapppt [Get App - Instagram shop by Snapppt](https://apps.shopify.com/254e867e771ed335c210d8d84830371a)
 
 * **Install Shopify MetaFields & Custom Fields - Beta**
+
+![](/assets/product-custom-field.png)
 
 Shopify does not support input product custom fields in the dashboard, but there are some add-ons for this that you can use to improve product quality. Example: you can have a short description, video embedded, 3d product embed... for each product.  
 One of the extensions you can refer to is the Custom Field Chrome extension made by Jason at [https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln).
@@ -116,6 +118,12 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
    > > * namespace: c\_f
    > > * key: buy\_with\_2
    > > * value: Add your product handle \#2
+   >
+   > **Ingredients Meta Field**:
+   >
+   > > * namespace: c\_f
+   > > * key: ingredients
+   > > * value: Add the product short description!
 5. Use Custom Field to import data to the product  
    ![](/assets/custom field.png)
 
@@ -132,6 +140,4 @@ On the **Edit code **page, you can edit the existing files, and add new ones. Th
 Go to** Config &gt; settings\_data.json **and replace code with one pre-setting file we included at **folder pre-setting**
 
 ![](/assets/pizzaro-file-theme.png)
-
-
 
