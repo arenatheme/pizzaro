@@ -1,3 +1,7 @@
+Pizzaro support many drag & drop section that you can use to custom your homepage products.
+
+![](/assets/section-list.png)
+
 ### 1.SEPERATOR
 
 Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.![](/assets/spacing-section.png)
@@ -59,7 +63,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 
 ### 3.COLLECTION & PRODUCT
 
-#### 3.1. COLLECTION
+#### 3.1. COLLECTION LIST
 
 * Sections starting with the Collection are used to display collections on the website.
 
@@ -74,7 +78,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
   ##### 3.2.1. Products Listing
 
   Display products are selected from the collection in the form of vertical column.  
-  ![](/assets/mediamarket-product-listing.png)**Settings**
+  ![](/assets/section-product-listing.png)**Settings**
 
 * Lazyload: Apply lazyload effect for product image display
 
@@ -89,7 +93,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
   ##### 3.2.2. Products Grid
 
   Display product images selected by grid \(or horizontal line\)  
-  ![](/assets/product-grid.png)Product Grid Sections may display product image depend on Type
+  ![](/assets/products-grid.png)Product Grid Sections may display product image depend on Type
 
 * One Horizontal Row:  when you select  **Limited items &gt; Number of items per row** and **Type = Row**  
   $$(Limited Items : Number of Items per row) <1$$
@@ -125,7 +129,9 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Label Settings
 
 * Quick View Product: display quick view icon when hover
+
 * Product Wishlist: display wishlist icon when hover
+
 * Product Compare: display compare icon when hover
 
 ##### 3.2.3. Product Tabs
@@ -152,9 +158,23 @@ Display products are selected from the multi-collection in the form of multi-tab
 * Product Wishlist: display wishlist icon when hover
 * Product Compare: display compare icon when hover
 
+##### 3.2.4. Product Carousel & Banner
+
+Display a banner combine with a product casousel list
+
+![](/assets/section_product_carousel_banner.png)
+
+##### 3.2.5. Single Product
+
+Display only one product at homepage, support add to cart button![](/assets/section-product-single.png)
+
 ### 4. INFORMATION
 
-### 5. ADVANTAGE LAYOUT
+Newsletter sections is use to creat a newsletter form at homepage. You may custom background image/color. Change content for call to action form. ![](/assets/newsletter section.png)
+
+### 5. BANNER
+
+Use to creat list of banner, image,logo, instagram image at homepage. You can custom display with multi layout and options. ![](/assets/section banner.png)![](/assets/section-banner-2.png)
 
 [^1]: Some options here may effect to global website: collection page, product page.
 
