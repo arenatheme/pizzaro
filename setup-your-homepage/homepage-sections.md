@@ -1,3 +1,9 @@
+### **Dynamic Homepage Sections**
+
+**Pizzaro **homepage sections are dynamic, meaning you can add as many of them as you want and rearrange them in the sidebar to create a completely unique layout. Out of the box, your theme has several dynamic sections enabled already. These are merely suggestions for how you might structure your homepage. Don’t want to include a section? Delete it! \(By clicking on it and clicking Delete section at the bottom.\) Want to include something that isn’t already there? Click Add section and find it on the list.
+
+By default, when you install with install apps, your homepage will be added sections as our demos. In order to customize with your style please read more detail of each section supported by the theme.
+
 Pizzaro support many drag & drop section that you can use to custom your homepage products.
 
 ![](/assets/section-list.png)
