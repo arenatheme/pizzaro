@@ -26,7 +26,8 @@ Seperator Sections are used for the purpose of creating Whitespaces, Heading Tit
 
 ### 2.SLIDESHOW
 
-Sliders can be used on all kind of websites however they’re most commonly used on business websites or professional portfolio websites. One clear advantage of using a slider is that website owners can place all their important content in a visually appealing and interactive slideshow at the top of the page before their main content. This allows users to quickly see the highlights and take action.
+Sliders can be used on all kind of websites however they’re most commonly used on business websites or professional portfolio websites. One clear advantage of using a slider is that website owners can place all their important content in a visually appealing and interactive slideshow at the top of the page before their main content. This allows users to quickly see the highlights and take action.  
+![](/assets/section-slideshow.png)
 
 **Setting:**
 
@@ -120,6 +121,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Metafields Description Excerpt: c\_f.description\_excerpt: Display Short Desciption Content in Meta Field
 
 * Product Review
+
 * Label Settings
 * Quick View Product: display quick view icon when hover
 * Product Wishlist: display wishlist icon when hover
