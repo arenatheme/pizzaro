@@ -1,4 +1,4 @@
-### How to install Mediamarket
+### How to install Pizzaro
 
 #### Method 1: ArenaThemes Install App
 
@@ -35,7 +35,7 @@
 * ##### **Upload your new theme package**
 
   * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-pizzaro-fast-food-restaurant-shopify-them.zip.
-  * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there          
+  * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there            
     **  
     ![](/assets/file-download.png)
 
@@ -44,7 +44,7 @@
   * Go to your Shopify admin dashboard and navigate to **Online Store&gt;Themes.**
 
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.  
-    Only select one package at t**heme-package folder **from the folder you was extracted**.                    
+    Only select one package at t**heme-package folder **from the folder you was extracted**.                      
     **![](/assets/pizzaro-file-unzip.png)  
     ![](/assets/select upload.png)
 
